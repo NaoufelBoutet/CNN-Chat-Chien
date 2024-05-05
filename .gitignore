@@ -5,7 +5,15 @@ __pycache__/
 
 # C extensions
 *.so
-
+testphoto.jpg
+testphotochien.jpg
+testphotochien2.jpg
+myenv/
+model04_augm25_epoch.h5
+model_1epoch.h5
+dogs-vs-cats/
+dogs/
+cats/
 # Distribution / packaging
 .Python
 build/

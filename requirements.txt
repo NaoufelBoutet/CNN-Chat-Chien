@@ -1,0 +1,3 @@
+matplotlib
+tensoflow
+scipy
